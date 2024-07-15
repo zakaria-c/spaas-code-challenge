@@ -52,14 +52,6 @@ Before you begin, ensure you have the following installed:
 
    The API will be available at `http://localhost:8888/swagger/index.html`.
 
-## Testing
-
-To run the tests, use the following command:
-
-   ```bash
-   dotnet test
-   ```
-
 ---
 
 Feel free to customize this README file to better suit your project's needs.
