@@ -1,0 +1,6 @@
+@Engie.PowerPlant_HostAddress = http://localhost:5146
+
+GET {{Engie.PowerPlant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
